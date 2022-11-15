@@ -1,3 +1,3 @@
 export function App() {
-  return <div className="App"></div>;
+  return <View className="App"></View>;
 }

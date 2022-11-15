@@ -3190,6 +3190,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@types/react-native@npm:^0.70.6":
+  version: 0.70.6
+  resolution: "@types/react-native@npm:0.70.6"
+  dependencies:
+    "@types/react": "*"
+  checksum: 1b620095ddf2fe85157df9d57435edc619587eacb1a4fadd91c977c200cef8008e7fec4d8c5429ce373e1a2158199f1162f9c84e8e5a7d0b71a2224f31b64dfd
+  languageName: node
+  linkType: hard
+
 "@types/react@npm:*, @types/react@npm:^18.0.25":
   version: 18.0.25
   resolution: "@types/react@npm:18.0.25"
@@ -14562,6 +14571,7 @@ __metadata:
     "@types/node": ^16.18.3
     "@types/react": ^18.0.25
     "@types/react-dom": ^18.0.9
+    "@types/react-native": ^0.70.6
     react: ^18.2.0
     react-dom: ^18.2.0
     react-native: ^0.70.5
